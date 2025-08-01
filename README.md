@@ -1,4 +1,4 @@
-## 📊 GitHub Stats <img align="right" width="20%" src="https://komarev.com/ghpvc/?username=Adam2475">
+## 📊 GitHub Stats
 
 <div style="display: flex; justify-content: center;">
   <img width="56%" src="https://github-readme-stats.vercel.app/api?username=Adam2475&theme=transparent&show_icons=true">
