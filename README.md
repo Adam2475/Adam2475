@@ -6,4 +6,3 @@
 </div>
 
 ![Info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adam2475&theme=transparent)  
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adam2475&theme=transparent)
